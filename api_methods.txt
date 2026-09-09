@@ -1,0 +1,11 @@
+get - If we want to retrivr value from api
+post - if we want to insert or want to pass sensative data 
+delete - if we want to delete data from database
+put - If we want to update data from database
+patch - If we want to update small amount of data from database
+
+queryparameter: If we want to pass data from url with ?
+
+eg: https://www.abc.com?name=Sanorita
+
+eg: https://www.abc.com?name=Sanorita&age=22&address=dahisar
